@@ -11,3 +11,14 @@ I'm Certified in various topics about a career in software development some of w
 - CCNA (Cisco Certified Newtworking Associate)
 * Amazon Web Services Certified on abilities on the cloud for El Salvador Edition 2022
 
+***
+## Technical Knowledge 
+
+|  Area  |  Time Learning            |    
+| :----  |  :-----------------:      |
+| Java   |  1 Year                   | 
+| JS     |  3 Year                   | 
+| C++    |  1 Year - Currently       | 
+| C#     |  2 Year                   | 
+| IU/IUX |  3 Year                   | 
+| PHP    |  2 Year                   | 
