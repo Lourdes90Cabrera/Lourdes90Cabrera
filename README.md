@@ -1,6 +1,6 @@
 ### Hi, I'm Lourdes 👋🤗
 
-<img src = "https://www.canva.com/design/DAFilmuNF_Y/7WQap3D6pEa_fyr5_Gg3pA/edit?utm_content=DAFilmuNF_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src = https://raw.githubusercontent.com/Lourdes90Cabrera/Lourdes90Cabrera/main/SoftwareDevelopment.png alt="banner that says Lourdes Cabrera - technical on software development">
 
 ***
 
