@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Lourdes 👋🤗
 
-<!--
-**Lourdes90Cabrera/Lourdes90Cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "https://www.canva.com/design/DAFilmuNF_Y/7WQap3D6pEa_fyr5_Gg3pA/edit?utm_content=DAFilmuNF_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Technical in Software Development who is passionate about designing the architecture and the different types for the web site's, software programs and the same time I like to administrate the database for the many software prototypes, administrate the various versions of the projects that I can load, unload and fet in order on github.
+
+I'm Certified in various topics about a career in software development some of which I can mention: 
+
+- CCNA (Cisco Certified Newtworking Associate)
+* Amazon Web Services Certified on abilities on the cloud for El Salvador Edition 2022
+
